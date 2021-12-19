@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeautyProducts</string>
+    <string name="price_placeholder">%s€</string>
+    <string name="description">Click to see the description...</string>
+</resources>
